@@ -1,4 +1,4 @@
-# HR Analytics Case Study in Power BI
+# HR Analysis Project
 
 ## Case Study Overview
 The core goal of this analysis is to build a comprehensive report using fictitious datasets. The primary objective is to enable the ficticious HR team to monitor key metrics related to employees. Additionally, we aim to uncover the factors that impact employee attrition, which serves as a secondary goal.
