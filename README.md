@@ -19,3 +19,8 @@ We will work with the following dimension tables to provide contextual informati
 ## Snowflake Schema
 Our final data model will follow a snowflake schema, with most dimension tables directly connected to the fact table. This schema optimizes data relationships and improves analysis capabilities.
 
+## Preview
+![HR_Analysis_Project_1](Images/HR_Analysis_Project_1.png)
+![HR_Analysis_Project_2](Images/HR_Analysis_Project_2.png)
+![HR_Analysis_Project_3](Images/HR_Analysis_Project_3.png)
+![HR_Analysis_Project_4](Images/HR_Analysis_Project_4.png)
